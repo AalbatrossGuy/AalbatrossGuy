@@ -18,6 +18,18 @@
 
 [![Discord(Alphabet)](https://img.shields.io/discord/711114410781048882?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/D9U4y7WZuF)
 
+### Websites I Use For Learning Languages
+
+<a href="https://www.udemy.com/">
+    <img align="left" alt="Udemy" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869886728445952/udemy.png" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+    <img align="left" alt="GeeksForGeeks" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869879073849344/GeeksforGeeks.png" />
+</a>
+<a href="https://www.w3schools.com/">
+    <img align="left" alt="W3Schools" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869879052886056/W3Schools_logo.png" />
+</a>
+
 ### Languages I Know
 <a href="https://www.python.org/">
     <img align="left" alt="Python3" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869864901110292500/python.png" />
@@ -39,6 +51,7 @@
 </a>
 
 ### Websites I Use For Learning Languages
+
 <a href="https://www.udemy.com/">
     <img align="left" alt="Udemy" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869886728445952/udemy.png" />
 </a>
