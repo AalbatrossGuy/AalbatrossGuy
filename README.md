@@ -1,4 +1,4 @@
-# ![Profile Stuff](https://github-readme-stats.vercel.app/api?username=AaalbatrossGuy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula)
+# ![Profile Stuff](https://github-readme-stats.vercel.app/api?username=AaalbatrossGuy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)
 
 # ![Commit Stuff](https://github-readme-streak-stats.herokuapp.com/?user=AaalbatrossGuy&hide_border=true&theme=tokyonight)
 
@@ -18,6 +18,25 @@
 
 [![Discord(Alphabet)](https://img.shields.io/discord/711114410781048882?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/D9U4y7WZuF)
 
+### Languages I Know
+<a href="https://www.python.org/">
+    <img align="left" alt="Python3" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869864901110292500/python.png" />
+</a>
+<a href="https://devdocs.io/c/">
+    <img align="left" alt="C" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865451402985502/c.png" />
+</a>
+<a href="https://www.docker.com/">
+    <img align="left" alt="Docker" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865471481090048/docker.png" />
+</a>
+<a href="https://html5.org/">
+    <img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865473402105897/html5.png" />
+</a>
+<a href="https://www.w3schools.com/css/css_intro.asp">
+    <img align="left" alt="CSS3" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865472538071040/css.png" />
+</a>
+<a href="https://nodejs.org/en/">
+    <img align="left" alt="NodeJS" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865475390193694/node-js.png" />
+</a>
 <!--
 **AaalbatrossGuy/AaalbatrossGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
