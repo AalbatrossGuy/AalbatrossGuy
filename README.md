@@ -4,6 +4,8 @@
 
 # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaalbatrossGuy&hide_border=true&theme=tokyonight)
 
+# ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=AaalbatrossGuy&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
+
 ### Socials & Stuff
 <a href="https://discord.gg/D9U4y7WZuF">
     <img align="left" alt="Discord Server" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -21,7 +23,7 @@
 ### Websites I Use For Learning Languages.
 
 <a href="https://www.udemy.com/">
-    <img align="left" alt="Udemy" width="30px" src="![image](https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png)" />
+    <img align="left" alt="Udemy" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536631753932800/udemy.png" />
 </a>
 <a href="https://www.geeksforgeeks.org/">
     <img align="left" alt="GeeksForGeeks" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869879073849344/GeeksforGeeks.png" />
@@ -35,7 +37,7 @@
 
 ### Languages I Know
 <a href="https://www.python.org/">
-    <img align="left" alt="Python3" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869864901110292500/python.png" />
+    <img align="left" alt="Python3" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536454339051560/python.png" />
 </a>
 <a href="https://devdocs.io/c/">
     <img align="left" alt="C" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865451402985502/c.png" />
@@ -44,10 +46,10 @@
     <img align="left" alt="Docker" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865471481090048/docker.png" />
 </a>
 <a href="https://html5.org/">
-    <img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865473402105897/html5.png" />
+    <img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536206250164264/html5.png" />
 </a>
 <a href="https://www.w3schools.com/css/css_intro.asp">
-    <img align="left" alt="CSS3" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865472538071040/css.png" />
+    <img align="left" alt="CSS3" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536821164486656/css3.png" />
 </a>
 <a href="https://nodejs.org/en/">
     <img align="left" alt="NodeJS" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865475390193694/node-js.png" />
