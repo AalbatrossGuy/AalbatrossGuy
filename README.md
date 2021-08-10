@@ -21,7 +21,7 @@
 ### Websites I Use For Learning Languages.
 
 <a href="https://www.udemy.com/">
-    <img align="left" alt="Udemy" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869886728445952/udemy.png" />
+    <img align="left" alt="Udemy" width="30px" src="![image](https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png)" />
 </a>
 <a href="https://www.geeksforgeeks.org/">
     <img align="left" alt="GeeksForGeeks" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869879073849344/GeeksforGeeks.png" />
