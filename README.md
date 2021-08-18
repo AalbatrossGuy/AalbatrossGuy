@@ -29,7 +29,7 @@
     <img align="left" alt="GeeksForGeeks" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869879073849344/GeeksforGeeks.png" />
 </a>
 <a href="https://www.w3schools.com/">
-    <img align="left" alt="W3Schools" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869869879052886056/W3Schools_logo.png" />
+    <img align="left" alt="W3Schools" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/877371730493063228/w3.jpeg" />
 </a>
 <a href="https://www.coursera.org/in">
     <img align "left" alt="Coursera" width="30px" src="https://www.logolynx.com/images/logolynx/99/99c48d61a4761f99fd8ca6eadd8d49c4.png" />
