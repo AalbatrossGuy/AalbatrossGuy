@@ -15,7 +15,7 @@
 
 </a>
 <a href="https://www.instagram.com/xcelsiorplayz/">
-    <img align="left" alt="Instagram Profile" width="30px" src="https://discord.com/channels/763737869482328074/831369746855362590/879177640559411220" />
+    <img align="left" alt="Instagram Profile" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177640337088592/instagram.png" />
 </a>
 
 [![Discord(Alphabet)](https://img.shields.io/discord/711114410781048882?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/D9U4y7WZuF)
@@ -26,7 +26,7 @@
     <img align="left" alt="Udemy" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536631753932800/udemy.png" />
 </a>
 <a href="https://www.geeksforgeeks.org/">
-    <img align="left" alt="GeeksForGeeks" width="30px" src="https://discord.com/channels/763737869482328074/831369746855362590/879177781550915615" />
+    <img align="left" alt="GeeksForGeeks" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177781580283945/GeeksforGeeks.png" />
 </a>
 <a href="https://www.w3schools.com/">
     <img align="left" alt="W3Schools" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/877371730493063228/w3.jpeg" />
@@ -40,7 +40,7 @@
     <img align="left" alt="Python3" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536454339051560/python.png" />
 </a>
 <a href="https://devdocs.io/c/">
-    <img align="left" alt="C" width="30px" src="https://discord.com/channels/763737869482328074/831369746855362590/879178064762896454" />
+    <img align="left" alt="C" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879178064549019658/c.png" />
 </a>
 <a href="https://www.docker.com/">
     <img align="left" alt="Docker" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865471481090048/docker.png" />
