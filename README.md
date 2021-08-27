@@ -52,7 +52,7 @@
     <img align="left" alt="CSS3" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536821164486656/css3.png" />
 </a>
 <a href="https://nodejs.org/en/">
-    <img align="left" alt="NodeJS" width="30px" src="https://cdn.discordapp.com/attachments/831377063382089798/869865475390193694/node-js.png" />
+    <img align="left" alt="NodeJS" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/880625995793715220/node-js.png" />
 </a>
 
 
