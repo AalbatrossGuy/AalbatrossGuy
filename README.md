@@ -18,7 +18,7 @@
     <img align="left" alt="Instagram Profile" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177640337088592/instagram.png" />
 </a>
 
-[![Discord(Alphabet)](https://img.shields.io/discord/711114410781048882?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/D9U4y7WZuF)
+[![Discord(Alphabet)](https://img.shields.io/discord/711114410781048882?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/wCgAbQygbe)
 
 ### Websites I Use For Learning Languages.
 
