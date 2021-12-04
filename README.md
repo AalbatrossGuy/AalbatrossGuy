@@ -21,7 +21,7 @@
 
 [![Discord(Delta)](https://img.shields.io/discord/661257119588417627?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/program)
 
-[![Avatar](https://discord.c99.nl/widget/theme-2/676414187131371520.png)
+![Avatar](https://discord.c99.nl/widget/theme-2/676414187131371520.png)
 
 ### Websites I Use For Learning Languages.
 
