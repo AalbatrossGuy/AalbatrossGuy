@@ -7,7 +7,7 @@
 # ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=AalbatrossGuy&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
 
 ### Socials & Stuff
-<a href="https://discord.gg/D9U4y7WZuF">
+<a href="https://discord.gg/program">
     <img align="left" alt="Discord Server" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.reddit.com/user/AalbatrossGuy">
