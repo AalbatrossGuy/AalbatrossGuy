@@ -2,7 +2,7 @@
 
 # ![Commit Stuff](https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&hide_border=true&theme=tokyonight)
 
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalbatrossGuy&hide_border=true&theme=tokyonight)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalbatrossGuy&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)
 
 # ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=AalbatrossGuy&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
 
