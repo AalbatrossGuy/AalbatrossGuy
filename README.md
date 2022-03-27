@@ -7,19 +7,19 @@
 # ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=AalbatrossGuy&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
 
 ### Socials & Stuff
-<a href="https://discord.gg/program">
+<a href="https://discord.gg/rXpHdaDWeJ">
     <img align="left" alt="Discord Server" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.reddit.com/user/AalbatrossGuy">
-    <img align="left" alt="Reddit Profile" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+    <img align="left" alt="Reddit" width="30px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />
 
 </a>
 <a href="https://www.instagram.com/albatrossguy/">
-    <img align="left" alt="Instagram Profile" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177640337088592/instagram.png" />
+    <img align="left" alt="Instagram" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177640337088592/instagram.png" />
 </a>
 
 
-[![Discord(Delta)](https://img.shields.io/discord/661257119588417627?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/program)
+[![Discord(Delta)](https://img.shields.io/discord/907476828720083035?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/rXpHdaDWeJ)
 
 ![Avatar](https://discord.c99.nl/widget/theme-2/676414187131371520.png)
 
