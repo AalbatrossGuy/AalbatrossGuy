@@ -1,76 +1,58 @@
-# ![Profile Stuff](https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)
+Hi 👋 My name is AalbatrossGuy
+==============================
 
-# ![Commit Stuff](https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&hide_border=true&theme=tokyonight)
+Student Developer...
+--------------------
 
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalbatrossGuy&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5)
+I currently am 15 years old and am interested in making my career in software development or A.I I've learned 6 languages in the last 2 years out of which I'm fluent in 3 of them. I code because programming is a way to spend my time in a productive manner and also cause i enjoy coding :)
 
-# ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=AalbatrossGuy&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
+* 🌍  I'm based in Asia
+* ✉️  You can contact me at [thexcelsiorisback@gmail.com](mailto:thexcelsiorisback@gmail.com)
+* 🚀  I'm currently working on [AuroraBot](http://discord.com/api/oauth2/authorize?client_id=953828222892670987&permissions=1103571053654&scope=bot%20applications.commands)
+* 🧠  I'm learning C language.
+* 🤝  I'm open to collaborating on projects related to discord bot development or any other projects in python.
+* ⚡  I play guitar as hobby and music is with me 24/7
 
-### Socials & Stuff
-<a href="https://discord.gg/rXpHdaDWeJ">
-    <img align="left" alt="Discord Server" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.reddit.com/user/AalbatrossGuy">
-    <img align="left" alt="Reddit" width="30px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />
+<a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
-</a>
-<a href="https://www.instagram.com/albatrossguy/">
-    <img align="left" alt="Instagram" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177640337088592/instagram.png" />
-</a>
+### Skills
 
-
-[![Discord(Delta)](https://img.shields.io/discord/907476828720083035?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/rXpHdaDWeJ)
-
-![Avatar](https://discord.c99.nl/widget/theme-2/676414187131371520.png)
-
-### Websites I Use For Learning Languages.
-
-<a href="https://www.udemy.com/">
-    <img align="left" alt="Udemy" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536631753932800/udemy.png" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-    <img align="left" alt="GeeksForGeeks" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879177781580283945/GeeksforGeeks.png" />
-</a>
-<a href="https://www.w3schools.com/">
-    <img align="left" alt="W3Schools" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/877371730493063228/w3.jpeg" />
-</a>
-<a href="https://www.coursera.org/in">
-    <img align "left" alt="Coursera" width="30px" src="https://www.logolynx.com/images/logolynx/99/99c48d61a4761f99fd8ca6eadd8d49c4.png" />
-</a>
-
-### Languages I Know
-<a href="https://www.python.org/">
-    <img align="left" alt="Python3" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536454339051560/python.png" />
-</a>
-<a href="https://devdocs.io/c/">
-    <img align="left" alt="C" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879178064549019658/c.png" />
-</a>
-<a href="https://www.docker.com/">
-    <img align="left" alt="Docker" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/879178822547808296/docker.png" />
-</a>
-<a href="https://html5.org/">
-    <img align="left" alt="HTML5" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536206250164264/html5.png" />
-</a>
-<a href="https://www.w3schools.com/css/css_intro.asp">
-    <img align="left" alt="CSS3" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/874536821164486656/css3.png" />
-</a>
-<a href="https://nodejs.org/en/">
-    <img align="left" alt="NodeJS" width="30px" src="https://cdn.discordapp.com/attachments/831369746855362590/880625995793715220/node-js.png" />
-</a>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+</p>
 
 
+### Socials
 
-<!--
-**AaalbatrossGuy/AaalbatrossGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://discord.com/users/AalbatrossGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/albatrossguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aalbatross-guy-b3bb051b1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13810518/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AalbatrossGuy"><img src="https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="AalbatrossGuy's GitHub stats" /></a>
+
+<a href="http://www.github.com/AalbatrossGuy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/AalbatrossGuy"><img src="https://activity-graph.herokuapp.com/graph?username=AalbatrossGuy&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/AalbatrossGuy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AalbatrossGuy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/AalbatrossGuy/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AalbatrossGuy/pistonpy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=pistonpy&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/AalbatrossGuy/DeltaDiscordBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=DeltaDiscordBot&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AalbatrossGuy/Aurora" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=Aurora&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
