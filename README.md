@@ -8,7 +8,7 @@ I currently am 15 years old and am interested in making my career in software de
 
 * 🌍  I'm based in Asia
 * ✉️  You can contact me at [thexcelsiorisback@gmail.com](mailto:thexcelsiorisback@gmail.com)
-* 🚀  I'm currently working on [AuroraBot](http://discord.com/api/oauth2/authorize?client_id=953828222892670987&permissions=1103571053654&scope=bot%20applications.commands)
+* 🚀  I'm currently working on [AGsBlog](https://github.com/AalbatrossGuy/AGsBlog)
 * 🧠  I'm learning C language.
 * 🤝  I'm open to collaborating on projects related to discord bot development or any other projects in python.
 * ⚡  I play guitar as hobby and music is with me 24/7
@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AalbatrossGuy/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AalbatrossGuy/pistonpy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=pistonpy&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AalbatrossGuy/AGsBlog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=AGsBlog&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AalbatrossGuy/pistonpy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=pistonpy&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
