@@ -8,7 +8,7 @@ I currently am 15 years old and am interested in making my career in software de
 
 * 🌍  I'm based in Asia
 * ✉️  You can contact me at [thexcelsiorisback@gmail.com](mailto:thexcelsiorisback@gmail.com)
-* 🚀  I'm currently working on [AGsBlog](https://github.com/AalbatrossGuy/AGsBlog)
+* 🚀  I'm currently working on [Aurora](https://github.com/AalbatrossGuy/Aurora)
 * 🧠  I'm learning C language.
 * 🤝  I'm open to collaborating on projects related to discord bot development or any other projects in python.
 * ⚡  I play guitar as hobby and music is with me 24/7
