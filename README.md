@@ -4,7 +4,7 @@ Hi 👋 My name is AalbatrossGuy
 Student Developer...
 --------------------
 
-I currently am 15 years old and am interested in making my career in software development or A.I I've learned 6 languages in the last 2 years out of which I'm fluent in 3 of them. I code because programming is a way to spend my time in a productive manner and also cause i enjoy coding :)
+I currently am 16 years old and am interested in making my career in software development or A.I I've learned 6 languages in the last 2 years out of which I'm fluent in 3 of them. I code because programming is a way to spend my time in a productive manner and also cause i enjoy coding :)
 
 * 🌍  I'm based in Asia
 * ✉️  You can contact me at [thexcelsiorisback@gmail.com](mailto:thexcelsiorisback@gmail.com)
