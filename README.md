@@ -7,8 +7,8 @@ Student Developer...
 I currently am 16 years old and am interested in making my career in software development or A.I I've learned 6 languages in the last 2 years out of which I'm fluent in 3 of them. I code because programming is a way to spend my time in a productive manner and also cause i enjoy coding :)
 
 * 🌍  I'm based in Asia
-* ✉️  You can contact me at [thexcelsiorisback@gmail.com](mailto:thexcelsiorisback@gmail.com)
-* 🚀  I'm currently working on [Aurora](https://github.com/AalbatrossGuy/Aurora)
+* ✉️  You can contact me at [my email](mailto:thexcelsiorisback@gmail.com)
+* 🚀  I'm currently working on [Nitrix](https://github.com/AalbatrossGuy/Nitrix)
 * 🧠  I'm learning C language.
 * 🤝  I'm open to collaborating on projects related to discord bot development or any other projects in python.
 * ⚡  I play guitar as hobby and music is with me 24/7
