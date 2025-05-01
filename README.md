@@ -4,14 +4,13 @@ Hi 👋 My name is AalbatrossGuy
 Student Developer...
 --------------------
 
-I am currently 18 years old and am interested in making my career in software development or A.I I've learned 6 languages in the last 3-4 years out of which I'm fluent in 3 of them. I code because programming is a way to spend my time in a productive manner and also cause i enjoy coding :)
+I am currently 18 years old and am interested in making my career in software development or A.I & Cloud Computing. I have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming is my first love and I have no intention of dropping it anytime.
 
-* 🌍  I'm based in Asia
-* ✉️  You can contact me at [my email](mailto:thexcelsiorisback@gmail.com)
-* 🚀  I'm currently working on [Nitrix](https://github.com/AalbatrossGuy/Nitrix)
-* 🧠  I'm learning C language.
-* 🤝  I'm open to collaborating on projects related to discord bot development or any other projects in python.
-* ⚡  I play guitar as hobby and music is with me 24/7
+* 🌍  I'm based in Asia.
+* 🚀  I'm currently working on [NIL].
+* 🧠  I'm learning the French Language (A2).
+* 🤝  Hit me up for any collaborative projects.
+* ⚡  Addicted to music and water. 
 
 <a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
@@ -30,28 +29,18 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/AalbatrossGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/albatrossguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aalbatross-guy-b3bb051b1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13810518/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://allmylinks.com/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331286/allmylinks.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AalbatrossGuy"><img src="https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="AalbatrossGuy's GitHub stats" /></a>
-
-<a href="http://www.github.com/AalbatrossGuy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/AalbatrossGuy"><img src="https://activity-graph.herokuapp.com/graph?username=AalbatrossGuy&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/AalbatrossGuy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AalbatrossGuy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AalbatrossGuy/Aurora" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=Aurora&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AalbatrossGuy/pistonpy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=pistonpy&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/AalbatrossGuy/DeltaDiscordBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=DeltaDiscordBot&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AalbatrossGuy/Aurora" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AalbatrossGuy&repo=Aurora&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/aalbatrossguy/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aalbatrossguy&theme=tokyonight" />
+</a>
+<a href="https://github.com/aalbatrossguy/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbatrossguy&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
