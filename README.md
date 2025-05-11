@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 ### Badges
 <a href="https://github.com/aalbatrossguy/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aalbatrossguy&theme=tokyonight" />
+  <img height=200 align="center" src="" />
 </a>
 <a href="https://github.com/aalbatrossguy/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbatrossguy&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
