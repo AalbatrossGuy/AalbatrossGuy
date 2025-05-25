@@ -7,7 +7,7 @@ I am currently 18 years old and am interested in making my career in software de
 
 * 🌍  I'm based in Asia.
 * 🚀  I'm currently working on [Glut](https://github.com/AalbatrossGuy/AalbaCloud).
-* 🧠  I'm learning the French Language (A2).
+* 🧠  I'm learning the French Language (A2) and reviewing the concepts of [C](https://www.learn-c.org/).
 * 🤝  Hit me up for any collaborative projects.
 * ⚡  Addicted to music and water. 
 
