@@ -35,16 +35,39 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 <p align="left"> <a href="https://allmylinks.com/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331286/allmylinks.svg" width="32" height="32" /></a></p>
 
-### Badges
-<a href="https://github.com/aalbatrossguy/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-</a>
+### Github Stats
 
-<a href="https://github.com/aalbatrossguy/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbatrossguy&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-<br>
-<a href="https://github.com/aalbatrossguy/github-readme-stats">
-  <img height=200 width=480 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&theme=tokyonight&hide_border=false" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/aalbatrossguy/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&theme=dark&show_icons=true&hide_border=false&count_private=true" height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aalbatrossguy/convoychat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbatrossguy&layout=compact&langs_count=8&card_width=320&theme=dark" height="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/aalbatrossguy/github-readme-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&theme=dark&hide_border=false" height="200" width="480"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aalbatrossguy/github-readme-stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aalbatrossguy&theme=dark&utcOffset=5.3" height="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left">
+      <a href="https://github.com/aalbatrossguy/github-readme-stats">
+        <img src="https://api.githubtrends.io/user/svg/AalbatrossGuy/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" height="300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
