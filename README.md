@@ -37,37 +37,41 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 ### Github Stats
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/aalbatrossguy/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&theme=dark&show_icons=true&hide_border=false&count_private=true" height="200" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/aalbatrossguy/convoychat">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbatrossguy&layout=compact&langs_count=8&card_width=320&theme=dark" height="200" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/aalbatrossguy/github-readme-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&theme=dark&hide_border=false" height="200" width="480"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/aalbatrossguy/github-readme-stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aalbatrossguy&theme=dark&utcOffset=5.3" height="200" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="left">
-      <a href="https://github.com/aalbatrossguy/github-readme-stats">
-        <img src="https://api.githubtrends.io/user/svg/AalbatrossGuy/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" height="300" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aalbatrossguy&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+<div align="left">
+  <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AalbatrossGuy&theme=dark&show_icons=true&hide_border=false&count_private=true" height="200" />
+  </a>
+  <a href="https://github.com/aalbatrossguy/convoychat" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aalbatrossguy&layout=compact&langs_count=8&card_width=320&theme=dark" height="200" />
+  </a>
+</div>
+
+<br/>
+
+<div align="left">
+  <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&theme=dark&hide_border=false" height="200" width="480"/>
+  </a>
+  <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aalbatrossguy&theme=dark&utcOffset=5.3" height="200" />
+  </a>
+</div>
+
+<br/>
+
+<div align="left">
+  <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
+    <img src="https://api.githubtrends.io/user/svg/AalbatrossGuy/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" height="300" />
+  </a>
+</div>
+
+
 
