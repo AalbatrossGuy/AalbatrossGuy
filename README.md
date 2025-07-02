@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 <div align="left">
   <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AalbatrossGuy&theme=dark&hide_border=false" height="200" width="480"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aalbatrossguy&theme=dark&hide_border=false" height="200" width="480"/>
   </a>
   <a href="https://github.com/aalbatrossguy/github-readme-stats" style="text-decoration: none;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aalbatrossguy&theme=dark&utcOffset=5.3" height="200" />
