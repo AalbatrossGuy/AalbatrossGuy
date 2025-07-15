@@ -3,7 +3,7 @@ Hi 👋 My name is AalbatrossGuy
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <h2>Student Developer...</h2>
 
-I am currently 18 years old and am interested in making my career in software development and/or Cloud Computing. I have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming is my first love and I have no intention of dropping it anytime. If my contribution graph is empty, it doesn't mean I'm slacking off, it just means that I'm contributing to private repos 😌
+I am currently 18 years old and am interested in making my career in software development and/or Cloud Computing. I have been coding since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming is my first love and I have no intention of dropping it anytime. If my contribution graph is empty, it doesn't mean I'm slacking off, it just means that I'm contributing to private repos 😌
 
 * 🌍  I'm based in Asia.
 * 🚀  I'm currently working on [Glut](https://github.com/AalbatrossGuy/AalbaCloud).
