@@ -6,8 +6,8 @@ Hi 👋 My name is AalbatrossGuy
 I am currently 18 years old and am interested in making my career in software development and/or Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming is my first love and I have no intention of dropping it anytime. If my contribution graph is empty, it doesn't mean I'm slacking off, it just means that I'm contributing to private repos 😌
 
 * 🌍  I'm based in Asia.
-* 🚀  I'm currently working on [Glut](https://github.com/AalbatrossGuy/AalbaCloud).
-* 🧠  I'm learning the French Language (A2) and reviewing the concepts of [C](https://github.com/AalbatrossGuy/CodeData/tree/master/C%202025).
+* 🚀  I'm currently working with and learning [gRPC](https://tamerlan.dev/the-beginners-guide-to-grpc-with-examples/).
+* 🧠  I'm learning the French Language (A2) and reviewing the concepts of [Rust](https://github.com/AalbatrossGuy/CodeData/tree/master/Rust).
 * 🤝  Hit me up for any collaborative projects.
 * ⚡  Addicted to music and water.
 * 📝  Checkout my [gists](https://gist.github.com/AalbatrossGuy)
