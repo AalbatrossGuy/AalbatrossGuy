@@ -5,12 +5,12 @@ Hi 👋 My name is AalbatrossGuy
 
 I am currently 18 years old and am interested in making my career in software development and/or Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming is my first love and I have no intention of dropping it anytime. If my contribution graph is empty, it doesn't mean I'm slacking off, it just means that I'm contributing to private repos 😌
 
-* 🌍  I'm based in Asia.
-* 🚀  I'm currently working on an e-commerce website.
-* 🧠  I'm learning the French Language (A2) and reviewing the concepts of [Rust](https://github.com/AalbatrossGuy/CodeData/tree/master/Rust).
-* 🤝  Hit me up for any collaborative projects.
-* ⚡  Addicted to music and water.
-* 📝  Checkout my [gists](https://gist.github.com/AalbatrossGuy)
+→ I'm based in Asia.
+→ I'm currently working on an e-commerce website.
+→ I'm learning the French Language (A2) and reviewing the concepts of [Rust](https://github.com/AalbatrossGuy/CodeData/tree/master/Rust).
+→ Hit me up for any collaborative projects.
+→ Addicted to music and water.
+→ Checkout my [gists](https://gist.github.com/AalbatrossGuy)
 
 <a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
