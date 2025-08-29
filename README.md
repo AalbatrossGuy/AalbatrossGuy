@@ -7,7 +7,7 @@ I am currently 18 years old and am interested in making my career in software de
 
 → I'm based in Asia. <br>
 → I'm currently working on an e-commerce website. <br>
-→ I'm learning the French Language (A2) and reviewing the concepts of [Rust](https://github.com/AalbatrossGuy/CodeData/tree/master/Rust). <br>
+→ I'm learning the French Language (A2) and learning about [RAG](https://www.ibm.com/think/topics/retrieval-augmented-generation). <br>
 → Hit me up for any collaborative projects. <br>
 → Addicted to music and water. <br>
 → Checkout my [gists](https://gist.github.com/AalbatrossGuy)
