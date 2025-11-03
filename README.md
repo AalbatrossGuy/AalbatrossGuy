@@ -6,11 +6,12 @@ Hi 👋 My name is AalbatrossGuy
 I am currently 18 years old and am interested in making my career in software development and/or Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming are my first love and I have no intention of dropping it anytime. If my contribution graph is empty, it doesn't mean I'm slacking off, it just means that I'm contributing to private repos 😌
 
 → I'm based in Asia. <br>
-→ I'm currently working on [ZomWeather](https://github.com/AalbatrossGuy/ZomWeather). <br>
+→ I'm currently working on [Skynet](https://github.com/AalbatrossGuy/Skynet). <br>
 → I'm learning the French Language (A2) and learning about [RAG](https://www.ibm.com/think/topics/retrieval-augmented-generation). <br>
 → Hit me up for any collaborative projects. <br>
 → Addicted to music and water. <br>
 → Checkout my [gists](https://gist.github.com/AalbatrossGuy)
+→ Checkout my [server config file](https://github.com/AalbatrossGuy/VargoDotFiles)
 
 <a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
