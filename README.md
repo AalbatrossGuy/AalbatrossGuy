@@ -7,7 +7,7 @@ I am 19 years old and am interested in making my career in software development 
 
 → I'm based in Asia. <br>
 → Freelancing since 2021. <br>
-→ I'm currently working on [AvroMan](https://github.com/AalbatrossGuy/AvroMan). <br>
+→ I'm currently working on [redivim](https://github.com/AalbatrossGuy/redivim). <br>
 → I'm learning the French Language (A2) and learning about [Computer Networks](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf). <br>
 → Hit me up for any collaborative projects. <br>
 → Addicted to music and water. <br>
