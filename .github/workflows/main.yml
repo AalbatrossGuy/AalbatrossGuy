@@ -2,18 +2,21 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
+
+      - name: Ensure output folder exists
+        run: mkdir -p profile
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -32,12 +35,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: streak
-          options: username=${{ github.repository_owner }}
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          curl -fsSL --retry 5 --retry-delay 2 \
+            "https://streak-stats.demolab.com?user=${USERNAME}&hide_border=true" \
+            -o profile/streak.svg
 
       - name: Commit cards
         run: |
