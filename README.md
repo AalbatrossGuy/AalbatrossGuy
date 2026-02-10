@@ -49,7 +49,6 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 <p align="left">
   <img src="profile/top-langs.svg" width="39%" />
-  <img src="profile/wakatime.svg" width="46%" />
 </p>
 
 
