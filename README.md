@@ -43,8 +43,8 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 
 <p align="left">
-  <img src="profile/stats.svg" width="40%" />
-  <img src="profile/streak.svg" width="43%" />
+  <img src="profile/stats.svg" width="45%" />
+  <img src="profile/streak.svg" width="48%" />
 </p>
 
 <p align="left">
