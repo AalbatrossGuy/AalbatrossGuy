@@ -22,7 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=dark&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,8 +39,19 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
         run: |
           curl -fsSL --retry 5 --retry-delay 2 \
-            "https://streak-stats.demolab.com?user=${USERNAME}&hide_border=true" \
+            "https://streak-stats.demolab.com?user=${USERNAME}&theme=dark&hide_border=true" \
             -o profile/streak.svg
+
+      - name: Generate WakaTime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=true
+          path: profile/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
 
       - name: Commit cards
         run: |
