@@ -39,7 +39,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
         run: |
           curl -fsSL --retry 5 --retry-delay 2 \
-            "https://streak-stats.demolab.com?user=${USERNAME}&theme=dark&hide_border=true" \
+            "https://streak-stats.demolab.com?user=${USERNAME}&theme=dark&hide_border=true&langs_count=8" \
             -o profile/streak.svg
 
       - name: Generate WakaTime card
