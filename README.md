@@ -39,7 +39,17 @@ src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for
 
 
 ### Github Stats
-![Commit streak](profile/streak.svg)
+
+
+
+<p align="left">
+  <img src="profile/stats.svg" width="40%" />
+  <img src="profile/streak.svg" width="43%" />
+</p>
+
+<p align="left">
+  <img src="profile/top-langs.svg" width="39%" />
+</p>
 
 
 
