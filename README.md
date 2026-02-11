@@ -14,8 +14,12 @@ I am 19 years old and am interested in making my career in software development 
 → Checkout my [gists](https://gist.github.com/AalbatrossGuy). <br>
 → Checkout my [server config file](https://github.com/AalbatrossGuy/VargoDotFiles). <br>
 
-<a href="https://www.github.com/AalbatrossGuy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/AalbatrossGuy?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" width="18%" />
+  <img src="https://wakatime.com/badge/user/b09fc800-e62b-4ca2-93bf-c3b70ed927f2.svg" width="19%" />
+</p>
+
 
 ### Skills
 
