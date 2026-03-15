@@ -126,11 +126,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >182 hrs 42 mins</text>
+      >182 hrs 58 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="58.28%">
+      <svg data-testid="lang-progress" width="58.23%">
         <rect
             height="8"
             fill="#fff"
@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="10.8%">
+      <svg data-testid="lang-progress" width="10.78%">
         <rect
             height="8"
             fill="#fff"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="8.89%">
+      <svg data-testid="lang-progress" width="8.87%">
         <rect
             height="8"
             fill="#fff"
@@ -190,16 +190,16 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="C/C++">C/C++:</text>
+      <text class="stat bold" y="12.5" data-testid="Bash">Bash:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >10 hrs 16 mins</text>
+      >10 hrs 23 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="3.28%">
+      <svg data-testid="lang-progress" width="3.31%">
         <rect
             height="8"
             fill="#fff"
@@ -213,16 +213,16 @@
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Bash">Bash:</text>
+      <text class="stat bold" y="12.5" data-testid="C/C++">C/C++:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >9 hrs 57 mins</text>
+      >10 hrs 16 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="3.17%">
+      <svg data-testid="lang-progress" width="3.27%">
         <rect
             height="8"
             fill="#fff"
@@ -245,7 +245,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="2.77%">
+      <svg data-testid="lang-progress" width="2.76%">
         <rect
             height="8"
             fill="#fff"
@@ -268,7 +268,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="2.56%">
+      <svg data-testid="lang-progress" width="2.55%">
         <rect
             height="8"
             fill="#fff"
@@ -310,7 +310,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >4 hrs 6 mins</text>
+      >4 hrs 7 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
