@@ -126,11 +126,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >190 hrs 44 mins</text>
+      >191 hrs 41 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="57.21%">
+      <svg data-testid="lang-progress" width="56.89%">
         <rect
             height="8"
             fill="#fff"
@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="10.24%">
+      <svg data-testid="lang-progress" width="10.13%">
         <rect
             height="8"
             fill="#fff"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="8.39%">
+      <svg data-testid="lang-progress" width="8.3%">
         <rect
             height="8"
             fill="#fff"
@@ -195,11 +195,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >12 hrs 26 mins</text>
+      >14 hrs 17 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="3.73%">
+      <svg data-testid="lang-progress" width="4.24%">
         <rect
             height="8"
             fill="#fff"
@@ -218,11 +218,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >12 hrs 16 mins</text>
+      >12 hrs 39 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="3.68%">
+      <svg data-testid="lang-progress" width="3.76%">
         <rect
             height="8"
             fill="#fff"
@@ -245,7 +245,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="3.08%">
+      <svg data-testid="lang-progress" width="3.05%">
         <rect
             height="8"
             fill="#fff"
@@ -268,7 +268,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="2.6%">
+      <svg data-testid="lang-progress" width="2.57%">
         <rect
             height="8"
             fill="#fff"
@@ -291,7 +291,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="2.41%">
+      <svg data-testid="lang-progress" width="2.38%">
         <rect
             height="8"
             fill="#fff"
@@ -310,7 +310,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >5 hrs 34 mins</text>
+      >5 hrs 43 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -558,12 +558,12 @@
     </g>
   </g><g transform="translate(0, 475)">
     <g class="stagger" style="animation-delay: 3300ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Requirements.txt">Requirements.txt:</text>
+      <text class="stat bold" y="12.5" data-testid="INI">INI:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >30 mins</text>
+      >32 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -581,12 +581,12 @@
     </g>
   </g><g transform="translate(0, 500)">
     <g class="stagger" style="animation-delay: 3450ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Objective-C">Objective-C:</text>
+      <text class="stat bold" y="12.5" data-testid="Requirements.txt">Requirements.txt:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >26 mins</text>
+      >30 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -604,12 +604,12 @@
     </g>
   </g><g transform="translate(0, 525)">
     <g class="stagger" style="animation-delay: 3600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="INI">INI:</text>
+      <text class="stat bold" y="12.5" data-testid="Objective-C">Objective-C:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >25 mins</text>
+      >28 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -816,7 +816,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >12 mins</text>
+      >13 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
