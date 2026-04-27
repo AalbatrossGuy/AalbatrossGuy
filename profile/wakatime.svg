@@ -126,11 +126,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >204 hrs 8 mins</text>
+      >204 hrs 11 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="56.46%">
+      <svg data-testid="lang-progress" width="56.34%">
         <rect
             height="8"
             fill="#fff"
@@ -149,11 +149,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >34 hrs 36 mins</text>
+      >34 hrs 44 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="9.57%">
+      <svg data-testid="lang-progress" width="9.59%">
         <rect
             height="8"
             fill="#fff"
@@ -172,11 +172,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >29 hrs 15 mins</text>
+      >29 hrs 40 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="8.09%">
+      <svg data-testid="lang-progress" width="8.19%">
         <rect
             height="8"
             fill="#fff"
@@ -195,11 +195,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >15 hrs 41 mins</text>
+      >15 hrs 46 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="4.34%">
+      <svg data-testid="lang-progress" width="4.35%">
         <rect
             height="8"
             fill="#fff"
@@ -222,7 +222,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="4.04%">
+      <svg data-testid="lang-progress" width="4.03%">
         <rect
             height="8"
             fill="#fff"
@@ -291,7 +291,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="2.4%">
+      <svg data-testid="lang-progress" width="2.39%">
         <rect
             height="8"
             fill="#fff"
@@ -471,7 +471,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >1 hr 26 mins</text>
+      >1 hr 29 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -673,12 +673,12 @@
     </g>
   </g><g transform="translate(0, 600)">
     <g class="stagger" style="animation-delay: 4050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="textmate">textmate:</text>
+      <text class="stat bold" y="12.5" data-testid="GitIgnore file">GitIgnore file:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >24 mins</text>
+      >25 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -696,12 +696,12 @@
     </g>
   </g><g transform="translate(0, 625)">
     <g class="stagger" style="animation-delay: 4200ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Desktop file">Desktop file:</text>
+      <text class="stat bold" y="12.5" data-testid="textmate">textmate:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >23 mins</text>
+      >24 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -719,12 +719,12 @@
     </g>
   </g><g transform="translate(0, 650)">
     <g class="stagger" style="animation-delay: 4350ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Lua">Lua:</text>
+      <text class="stat bold" y="12.5" data-testid="Desktop file">Desktop file:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >21 mins</text>
+      >23 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -742,7 +742,7 @@
     </g>
   </g><g transform="translate(0, 675)">
     <g class="stagger" style="animation-delay: 4500ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text class="stat bold" y="12.5" data-testid="Lua">Lua:</text>
       <text
         class="stat"
         x="350"
@@ -765,12 +765,12 @@
     </g>
   </g><g transform="translate(0, 700)">
     <g class="stagger" style="animation-delay: 4650ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="XML">XML:</text>
+      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >19 mins</text>
+      >21 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -788,7 +788,7 @@
     </g>
   </g><g transform="translate(0, 725)">
     <g class="stagger" style="animation-delay: 4800ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="GitIgnore file">GitIgnore file:</text>
+      <text class="stat bold" y="12.5" data-testid="XML">XML:</text>
       <text
         class="stat"
         x="350"
@@ -949,7 +949,7 @@
     </g>
   </g><g transform="translate(0, 900)">
     <g class="stagger" style="animation-delay: 5850ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="PacmanConf">PacmanConf:</text>
+      <text class="stat bold" y="12.5" data-testid=".env file">.env file:</text>
       <text
         class="stat"
         x="350"
@@ -972,12 +972,12 @@
     </g>
   </g><g transform="translate(0, 925)">
     <g class="stagger" style="animation-delay: 6000ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid=".env file">.env file:</text>
+      <text class="stat bold" y="12.5" data-testid="PacmanConf">PacmanConf:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >5 mins</text>
+      >6 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
