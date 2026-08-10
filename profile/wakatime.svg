@@ -126,7 +126,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >209 hrs 58 mins</text>
+      >209 hrs 59 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
