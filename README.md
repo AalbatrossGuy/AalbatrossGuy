@@ -6,8 +6,9 @@ Hi 👋 My name is AalbatrossGuy
 I am 19 years old and am interested in making my career in software development and Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming are my first love and I have no intention of dropping it anytime. Currently working with a legal tech startup, [VyasLDM](https://vyasldm.com/). I generally spend my free time doing some hobby projects :/
 
 → I'm based in Asia. <br>
+→ Learning since 2020. <br>
 → Freelancing since 2021. <br>
-→ I'm currently working on [Teddy](https://github.com/AalbatrossGuy/Teddy) & [SlimeDB](https://github.com/AalbatrossGuy/SlimeDB)<br>
+c I'm currently working on [Teddy](https://github.com/AalbatrossGuy/Teddy) & [SlimeDB](https://github.com/AalbatrossGuy/SlimeDB)<br>
 → I'm learning the French Language (B1) and learning about [Computer Networks](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf). <br>
 → Hit me up for any collaborative projects. <br>
 → Addicted to music and water. <br>
