@@ -47,8 +47,7 @@ You may also know me as AG. I am 19 years old and am interested in making my car
 
 ### Socials
 
-<p align="left"> <a href="https://allmylinks.com/aalbatrossguy" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331286/allmylinks.svg" width="32" height="32" /></a></p>
-
+→ <a href="https://socials.vargoseus.com/">socials.vargoseus.com</a>
 
 ### Github Stats
 
