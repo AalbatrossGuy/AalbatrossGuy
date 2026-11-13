@@ -1,9 +1,16 @@
-Hi 👋 My name is AalbatrossGuy
+Hi, My name is AalbatrossGuy
 ==============================
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<h2>Student Developer...</h2>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
+<div align="center">
+  <img width="1000" height="900" alt="banner3" src="https://github.com/user-attachments/assets/9100599f-8931-42cb-8dcb-536a2e6415d6" />
+</div>
+<!-- <p style="font-size: 1px; font-family: Arial;">This is very small text.</p> -->
+<div align="right">
+  <sub>Pic credits: <a href="https://x.com/anirrie_">anirrie_</a></sub>
+</div>
+<h2>Some Stuff About Me</h2>
 
-I am 19 years old and am interested in making my career in software development and Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming are my first love and I have no intention of dropping it anytime. Currently working with a legal tech startup, [VyasLDM](https://vyasldm.com/). I generally spend my free time doing some hobby projects :/
+You may also know me as AG. I am 19 years old and am interested in making my career in software development and Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming are my first love and I have no intention of dropping it anytime. Currently working with a legal tech startup, [VyasLDM](https://vyasldm.com/). I generally spend my free time doing some hobby projects :/
 
 → I'm based in Asia. <br>
 → Learning since 2020. <br>
