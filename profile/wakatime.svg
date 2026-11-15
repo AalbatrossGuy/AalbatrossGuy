@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >231 hrs 36 mins</text>
+      >231 hrs 54 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="43.07%">
+      <svg data-testid="lang-progress" width="42.82%">
         <rect
             height="8"
             
@@ -153,16 +153,16 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="HTML">HTML:</text>
+      <text class="stat bold" y="12.5" data-testid="Markdown">Markdown:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >44 hrs 37 mins</text>
+      >45 hrs 36 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="8.3%">
+      <svg data-testid="lang-progress" width="8.42%">
         <rect
             height="8"
             
@@ -176,16 +176,16 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Markdown">Markdown:</text>
+      <text class="stat bold" y="12.5" data-testid="HTML">HTML:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >44 hrs</text>
+      >44 hrs 37 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="8.18%">
+      <svg data-testid="lang-progress" width="8.24%">
         <rect
             height="8"
             
@@ -208,7 +208,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="7.14%">
+      <svg data-testid="lang-progress" width="7.09%">
         <rect
             height="8"
             
@@ -231,7 +231,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="6.48%">
+      <svg data-testid="lang-progress" width="6.44%">
         <rect
             height="8"
             
@@ -250,11 +250,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >16 hrs 50 mins</text>
+      >17 hrs 11 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="3.13%">
+      <svg data-testid="lang-progress" width="3.17%">
         <rect
             height="8"
             
@@ -277,7 +277,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.88%">
+      <svg data-testid="lang-progress" width="2.86%">
         <rect
             height="8"
             
@@ -300,7 +300,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.8%">
+      <svg data-testid="lang-progress" width="2.78%">
         <rect
             height="8"
             
@@ -319,11 +319,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >12 hrs 10 mins</text>
+      >12 hrs 28 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.26%">
+      <svg data-testid="lang-progress" width="2.3%">
         <rect
             height="8"
             
@@ -342,7 +342,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >12 hrs 1 min</text>
+      >12 hrs 6 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -365,7 +365,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >10 hrs 20 mins</text>
+      >10 hrs 44 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -411,7 +411,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >8 hrs 12 mins</text>
+      >8 hrs 31 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -457,7 +457,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >6 hrs 1 min</text>
+      >6 hrs 26 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -889,7 +889,7 @@
     </g>
   </g><g transform="translate(0, 825)">
     <g class="stagger" style="animation-delay: 5400ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="gitignore">gitignore:</text>
+      <text class="stat bold" y="12.5" data-testid="Git Config">Git Config:</text>
       <text
         class="stat"
         x="350"
@@ -912,12 +912,12 @@
     </g>
   </g><g transform="translate(0, 850)">
     <g class="stagger" style="animation-delay: 5550ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Git Config">Git Config:</text>
+      <text class="stat bold" y="12.5" data-testid="gitignore">gitignore:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >17 mins</text>
+      >18 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
