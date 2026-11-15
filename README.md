@@ -1,13 +1,18 @@
 Hi, My name is AalbatrossGuy
 ==============================
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
-<div align="center">
-  <img width="910" height="900" alt="banner3" src="https://github.com/user-attachments/assets/9100599f-8931-42cb-8dcb-536a2e6415d6" />
-</div>
-<!-- <p style="font-size: 1px; font-family: Arial;">This is very small text.</p> -->
+<!-- <img width="910" height="900" alt="banner3" src="https://github.com/user-attachments/assets/9100599f-8931-42cb-8dcb-536a2e6415d6" /> -->
+<p align="right">
+  <img align="left" width="51.5%" alt="banner3" src="https://github.com/user-attachments/assets/9100599f-8931-42cb-8dcb-536a2e6415d6" />
+  <img width="45.5%" alt="violet" src="https://github.com/user-attachments/assets/b5779415-7177-4aac-a876-e831a158f761" />
+  <br />
+  <sub><sub><sub><img width="45.5%" alt="lilies" src="https://github.com/user-attachments/assets/b3307791-840f-4c20-baa4-3663feb82c81" /></sub></sub></sub>
+  <br clear="left" />
+</p>
 <div align="right">
   <sub>Pic credits: <a href="https://x.com/anirrie_">anirrie_</a></sub>
 </div>
+<!-- <p style="font-size: 1px; font-family: Arial;">This is very small text.</p> -->
 <h2>Some Stuff About Me</h2>
 
 You may also know me as AG. I am 19 years old and am interested in making my career in software development and Cloud Computing. I have been programming since I was 13 and have learnt quite a few languages and tech stacks over the years and I'm proficient in most of them. I code because computer and programming are my first love and I have no intention of dropping it anytime. Currently working with a legal tech startup, [VyasLDM](https://vyasldm.com/). I generally spend my free time doing some hobby projects :/
@@ -61,7 +66,3 @@ You may also know me as AG. I am 19 years old and am interested in making my car
 <p align="left">
   <img src="profile/top-langs.svg" width="39%" />
 </p>
-
-
-
-
